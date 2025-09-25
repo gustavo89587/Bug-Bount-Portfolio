@@ -40,11 +40,12 @@ Portfólio destinado a demonstrar habilidades práticas para vagas júnior em Cy
 ---
 
 ## Contato profissional
-- GitHub: https://github.com/gugaokamoto1  
-- LinkedIn: https://www.linkedin.com/in/gugaokamoto1 (ou seu link real)  
-- Email: `<seu-email-redacted@exemplo.com>`
+- GitHub: https://github.com/gustavo89587  
+- LinkedIn: https://linkedin.com/in/gustavo-okamoto-de-carvalho-ti
+- Email: <gugaokamoto1@gmail.com>
 
 ---
 
 ## Nota sobre divulgação responsável
 Evidências sensíveis foram redacted. Caso um time queira reprodução completa, fornecerei HAR ou logs **por canal seguro** após verificação.
+
